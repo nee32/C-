@@ -1,4 +1,4 @@
-# IEnumerator-
+# IEnumerator迭代器
 IEnumerator迭代器实现有以下两种方法
 //方法1
 //在类中提供一个迭代器IEnumerator GetEnumerator 而不必实现整个IEnumerable接口. 
