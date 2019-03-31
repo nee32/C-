@@ -74,6 +74,7 @@ namespace 迭代器
             {
                 yield return strList[i];
             }
+            //return this.strList.GetEnumerator();
         }
     }
 
